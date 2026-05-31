@@ -18,11 +18,12 @@
   /* works */
   #works ul {
     flex-direction: column;
+    align-items: center;
   }
 
   #works li {
     width: 100%;
-    margin-bottom: 30px;
+    margin: 0 0 30px;
   }
 
   /* skill */
