@@ -1,0 +1,36 @@
+@media screen and (max-width: 600px) {
+
+  /* mainvisual */
+  #mainvisual img {
+    height: 300px;
+  }
+
+  /* about */
+  #about .content {
+    flex-direction: column;
+  }
+
+  #about img {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+
+  /* works */
+  #works ul {
+    flex-direction: column;
+  }
+
+  #works li {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+  /* skill */
+  #skill ul {
+    flex-direction: column;
+  }
+
+  #skill li {
+    width: 100%;
+  }
+}
